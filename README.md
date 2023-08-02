@@ -1,4 +1,4 @@
-# Ninja
+# 🥷 Ninja
 This is a spellbook.
 
 
