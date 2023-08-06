@@ -1,4 +1,4 @@
-# 🥷 J is for ninJa notes 
+# 🥷 𝕵 is for nin𝕵a notes 
 This is a spellbook.
 
 I use GitHub issues as my learning blog for keeping notes.
