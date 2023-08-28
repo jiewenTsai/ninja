@@ -25,5 +25,6 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
+  - search
   - mkdocs-jupyter:
       allow_errors: false
