@@ -3,8 +3,10 @@ site_name: My Docs
 nav:
   - Home: index.md
   - About: about.md
-  - 3rd page:
+  - Main Notes:
     - 3rd page: 3rdpage.md
+    - Lab7-2: Lab7_2.ipynb
+    
     
     
 theme: 
