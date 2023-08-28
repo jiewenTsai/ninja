@@ -1,17 +1,17 @@
-site_name: My Docs
+site_name: Ninja Docs
 
 nav:
   - Home: index.md
   - About: about.md
   - Main Notes:
     - 3rd page: 3rdpage.md
-    - Lab7-2: Lab7_2.ipynb
+    - Lab72: Lab7_2.ipynb
     
     
     
 theme: 
   name: terminal
-  palette: gruvbox_dark
+  palette: pink
 
 
 
