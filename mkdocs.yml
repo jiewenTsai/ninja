@@ -7,11 +7,10 @@ nav:
     - 3rd page: 3rdpage.md
     - Note0730: note0730.ipynb
     
-    
-theme: litera
-#theme: 
-#  name: terminal
-#  palette: dark
+
+theme: 
+  name: terminal
+  palette: dark
 
 
 
