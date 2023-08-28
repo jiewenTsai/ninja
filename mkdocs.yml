@@ -5,13 +5,13 @@ nav:
   - About: about.md
   - Main Notes:
     - 3rd page: 3rdpage.md
-    - Lab72: Lab7_2.ipynb
+    - Note0730: note0730.ipynb
     
     
     
 theme: 
   name: terminal
-  palette: pink
+  palette: gruvbox_dark
 
 
 
