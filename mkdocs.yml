@@ -26,5 +26,5 @@ extra_javascript:
 
 plugins:
   - mkdocs-jupyter:
-     execute: true
-     allow_errors: false
+      execute: true
+      allow_errors: false
