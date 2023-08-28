@@ -8,10 +8,10 @@ nav:
     - Note0730: note0730.ipynb
     
     
-    
-theme: 
-  name: terminal
-  palette: dark
+theme: litera
+#theme: 
+#  name: terminal
+#  palette: dark
 
 
 
