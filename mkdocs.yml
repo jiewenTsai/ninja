@@ -11,7 +11,7 @@ nav:
     
 theme: 
   name: terminal
-  palette: gruvbox_dark
+  palette: dark
 
 
 
