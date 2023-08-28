@@ -25,5 +25,4 @@ extra_javascript:
 
 plugins:
   - search
-  - mkdocs-jupyter:
-      allow_errors: false
+  - mkdocs-jupyter
