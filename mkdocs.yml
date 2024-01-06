@@ -9,9 +9,7 @@ nav:
     
 
 theme: 
-  name: readthedocs 
-  
-  #terminal
+  name: terminal
   #palette: pink
 
 
