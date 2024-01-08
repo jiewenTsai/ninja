@@ -10,6 +10,9 @@ nav:
 
 theme: 
   name: material
+  palette:
+    scheme: slate
+    primary: red
   # terminal
   #palette: pink
 
