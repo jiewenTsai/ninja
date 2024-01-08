@@ -9,7 +9,8 @@ nav:
     
 
 theme: 
-  name: terminal
+  name: material
+  # terminal
   #palette: pink
 
 
