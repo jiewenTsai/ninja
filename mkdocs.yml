@@ -32,3 +32,4 @@ extra_javascript:
 plugins:
   - search
   - mkdocs-jupyter
+  - blog
