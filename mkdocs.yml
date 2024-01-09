@@ -39,5 +39,3 @@ plugins:
   - tags
   - blog:
       blog_dir: .
-      authors_profiles: true
-      post_date_format: medium
