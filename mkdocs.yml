@@ -38,6 +38,7 @@ plugins:
   - mkdocs-jupyter
   - tags
   - blogging:
-      dirs: .
+      dirs: 
+        - docs
       features:
         tags: {}
