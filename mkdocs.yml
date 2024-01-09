@@ -12,10 +12,10 @@ nav:
 theme: 
   name: material
   palette:
-    scheme: slate
+    scheme: default #slate
     primary: blue
   font:
-    text: Noto Sans CJK TC
+    text: Noto Serifs CJK TC
   features:
     - navigation.sections
   # terminal
@@ -37,5 +37,7 @@ plugins:
   - search
   - mkdocs-jupyter
   - tags
-  - blog:
-      blog_dir: .
+  - blogging:
+      dirs: .
+      features:
+        tags: {}
