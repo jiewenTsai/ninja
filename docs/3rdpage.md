@@ -1,7 +1,7 @@
 ---
 date: 2022-01-31
 author: JW
-categories:
+tags:
   - Hello
   - World
 ---
