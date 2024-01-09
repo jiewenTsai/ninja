@@ -37,6 +37,7 @@ plugins:
   - search
   - mkdocs-jupyter
   - tags
-  - meta
   - blog:
       blog_dir: .
+      authors: true
+      post_date_format: medium
