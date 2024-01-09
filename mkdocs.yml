@@ -17,7 +17,7 @@ theme:
   font:
     text: Noto Sans CJK TC
   features:
-    - navigation.indexes
+    - navigation.sections
   # terminal
   #palette: pink
 
