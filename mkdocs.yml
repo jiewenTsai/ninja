@@ -37,4 +37,4 @@ plugins:
   - search
   - mkdocs-jupyter
   - blog:
-      blog_dir: posts/ 
+      blog_dir: / 
