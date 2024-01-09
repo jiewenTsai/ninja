@@ -37,5 +37,6 @@ plugins:
   - search
   - mkdocs-jupyter
   - tags
+  - meta
   - blog:
       blog_dir: .
