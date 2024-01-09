@@ -3,7 +3,7 @@ site_name: Ninja Notes
 nav:
   - Blog:
     - index.md
-    - Untitled0.ipynb
+    - Untitled: Untitled0.ipynb
   - About: about.md
   - Main Notes:
     - 3rd page: 3rdpage.md
