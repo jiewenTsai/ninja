@@ -1,7 +1,8 @@
 site_name: Ninja Notes
 
 nav:
-  - Home: index.md
+  - Blog:
+    - blog/index.md
   - About: about.md
   - Main Notes:
     - 3rd page: 3rdpage.md
@@ -15,8 +16,11 @@ theme:
     primary: blue
   font:
     text: Noto Sans CJK TC
+  features:
+    - navigation.indexes
   # terminal
   #palette: pink
+
 
 
 
