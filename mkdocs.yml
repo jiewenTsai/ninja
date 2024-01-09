@@ -2,7 +2,7 @@ site_name: Ninja Notes
 
 nav:
   - Blog:
-    - blog/index.md
+    - index.md
   - About: about.md
   - Main Notes:
     - 3rd page: 3rdpage.md
