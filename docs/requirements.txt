@@ -2,4 +2,3 @@ mkdocs
 mkdocs-terminal
 mkdocs-jupyter
 mkdocs-material
-mkdocs-blogging-plugin
