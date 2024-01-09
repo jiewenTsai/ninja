@@ -2,6 +2,6 @@ authors:
   JW:
     name: JW        # Author name
     description: string # Author description
-    #avatar: url         # Author avatar
+    avatar: https://gravatar.com/avatar/96637a861b529eed4671ffaf3d35a3cb?s=400&d=robohash&r=x         # Author avatar
     #slug: url           # Author profile slug
     #url: url            # Author website URL
