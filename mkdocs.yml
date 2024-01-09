@@ -36,4 +36,5 @@ extra_javascript:
 plugins:
   - search
   - mkdocs-jupyter
-  - blog
+  - blog:
+      blog_dir: posts/ 
