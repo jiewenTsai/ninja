@@ -16,6 +16,7 @@ theme:
     primary: blue
   font:
     text: Noto Serif CJK TC
+    weight: 500
   features:
     - navigation.sections
   # terminal
