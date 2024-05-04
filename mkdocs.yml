@@ -11,7 +11,7 @@ nav:
     
 
 theme: 
-  name: litera
+  name: readthedocs
   font:
     text: Noto Serif CJK TC
   features:
