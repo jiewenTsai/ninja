@@ -6,15 +6,12 @@ nav:
     - index.md
     - 3rdpage.md
   - ipynb:
-    - Testing0: Untitled0.ipynb
-    - Testing1: Untitled-1.ipynb
+    - Untitled0.ipynb
+    - Untitled-1.ipynb
     
 
 theme: 
   name: litera
-  palette:
-    scheme: default #slate
-    primary: blue
   font:
     text: Noto Serif CJK TC
   features:
