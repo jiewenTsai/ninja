@@ -6,7 +6,8 @@ nav:
     - index.md
     - 3rdpage.md
   - ipynb:
-    - Untitled: Untitled0.ipynb
+    - Testing0: Untitled0.ipynb
+    - Testing1: Untitled1.ipynb
     
 
 theme: 
