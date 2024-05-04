@@ -10,7 +10,7 @@ nav:
     
 
 theme: 
-  name: united
+  name: litera
   palette:
     scheme: default #slate
     primary: blue
