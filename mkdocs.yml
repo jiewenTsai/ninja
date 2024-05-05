@@ -21,6 +21,12 @@ theme:
   # terminal
   #palette: pink
   palette: 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
     # Palette toggle for dark mode
     - scheme: slate
       toggle:
