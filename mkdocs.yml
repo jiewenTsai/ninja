@@ -37,8 +37,9 @@ extra_javascript:
 
 plugins:
   - search
-  - mknotebooks
-  #    enable_default_jupyter_cell_styling: false
+  - mknotebooks:
+      enable_default_jupyter_cell_styling: false
+      enable_default_pandas_dataframe_styling: false
   #- tags
   #- blog:
   #    blog_dir: .
