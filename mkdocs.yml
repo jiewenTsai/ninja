@@ -23,7 +23,8 @@ theme:
 
 
 markdown_extensions:
-  - admonition
+  - footnotes # 支持脚注
+  - admonition # 支持提示块
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.arithmatex:
@@ -36,9 +37,7 @@ extra_javascript:
 
 plugins:
   - search
-  - mkdocs-jupyter:
-      kernel_name: python3
-      no_input: True
+  - mknotebooks
   #- tags
   #- blog:
   #    blog_dir: .
