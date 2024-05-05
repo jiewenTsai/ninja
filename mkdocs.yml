@@ -5,6 +5,7 @@ nav:
   - Blog:
     - index.md
     - 3rdpage.md
+    - Untitled-1.md
   - ipynb:
     - Untitled0.ipynb
     - Untitled-1.ipynb
@@ -22,8 +23,11 @@ theme:
 
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.arithmatex:
-      generic: false
+      generic: true
 
 extra_javascript:
   - javascripts/mathjax.js
