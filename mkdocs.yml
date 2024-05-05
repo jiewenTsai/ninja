@@ -23,7 +23,7 @@ theme:
 
 markdown_extensions:
   - pymdownx.arithmatex:
-      generic: true
+      generic: false
 
 extra_javascript:
   - javascripts/mathjax.js
