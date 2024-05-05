@@ -8,7 +8,7 @@ nav:
     - Untitled-1.md
   - ipynb:
     - Untitled0.ipynb
-    - Untitled-1.ipynb
+    - 0505: Untitled-0505.ipynb
     
 
 theme: 
@@ -36,7 +36,9 @@ extra_javascript:
 
 plugins:
   - search
-  - mkdocs-jupyter
+  - mkdocs-jupyter:
+      kernel_name: python3
+      no_input: True
   #- tags
   #- blog:
   #    blog_dir: .
