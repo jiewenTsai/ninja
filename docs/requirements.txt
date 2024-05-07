@@ -4,4 +4,3 @@ mkdocs-jupyter
 mkdocs-material
 mkdocs-bootswatch
 mknotebooks
-sphinx-rtd-theme
