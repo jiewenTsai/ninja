@@ -12,7 +12,7 @@ nav:
     
 
 theme: 
-  name: lumen
+  name: sphinx_rtd_theme
   user_color_mode_toggle: true
   font:
     text: Noto Serif CJK TC
