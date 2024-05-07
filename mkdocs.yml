@@ -50,7 +50,7 @@ plugins:
   - search
   - mknotebooks:
       enable_default_jupyter_cell_styling: false
-      enable_default_pandas_dataframe_styling: false
+      enable_default_pandas_dataframe_styling: true
   #- tags
   #- blog:
   #    blog_dir: .
