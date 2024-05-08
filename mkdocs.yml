@@ -56,7 +56,6 @@ extra:
     - search
   sidebars:
     - about
-    - navigation
     - related
     - search
 
