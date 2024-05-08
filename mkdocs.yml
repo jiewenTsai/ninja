@@ -49,12 +49,7 @@ extra_javascript:
 
 extra:
   homepage_nav: false
-  sidebars:
-    - about
-    - toc
-    - my-awesome-sidebar # corresponds to `$THEME_DIR/sidebars/my-awesome-sidebar.html`
-    - related
-    - search
+
 
 plugins:
   - search
