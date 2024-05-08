@@ -47,18 +47,6 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 
-extra:
-  homepage_nav: true
-  homepage_sidebars:
-    - about
-    - toc
-    - related
-    - search
-  sidebars:
-    - about
-    - related
-    - search
-
 
 plugins:
   - search
