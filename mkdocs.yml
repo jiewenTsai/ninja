@@ -49,6 +49,11 @@ extra_javascript:
 
 extra:
   homepage_nav: false
+  homepage_sidebars:
+    - about
+    - toc
+    - related
+    - search
   sidebars:
     - about
     - navigation
