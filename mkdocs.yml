@@ -8,11 +8,11 @@ nav:
     - Untitled-1.md
   - ipynb:
     - Untitled0.ipynb
-    - 0505: Untitled-0505.ipynb
+    - '0505': Untitled-0505.ipynb
     
 
 theme: 
-  name: ivory
+  name: readthedocs
   user_color_mode_toggle: true
   font:
     text: Noto Serif CJK TC
