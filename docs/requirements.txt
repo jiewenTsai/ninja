@@ -5,3 +5,4 @@ mkdocs-material
 mkdocs-bootswatch
 mknotebooks
 mkdocs-rtd-dropdown
+mkdocs-alabaster
