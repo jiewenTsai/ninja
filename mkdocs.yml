@@ -48,7 +48,7 @@ extra_javascript:
 
 
 extra:
-  homepage_nav: false
+  homepage_nav: true
   homepage_sidebars:
     - about
     - toc
