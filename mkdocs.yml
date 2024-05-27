@@ -8,6 +8,7 @@ nav:
     - Untitled-1.md
   - ipynb:
     - Untitled0.ipynb
+    - julia matrix.ipynb
     - '0505': Untitled-0505.ipynb
     
 
