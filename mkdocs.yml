@@ -53,7 +53,7 @@ extra_javascript:
 
 plugins:
   - search
-  - mkdocs-jupyter
+  #- mkdocs-jupyter
   #- mknotebooks:
   #    enable_default_jupyter_cell_styling: true
   #    enable_default_pandas_dataframe_styling: true
@@ -64,7 +64,7 @@ plugins:
 
   # mkdocs.yml
 plugins:
-  - jupyter:
+  - mkdocs-jupyter:
       execute: false
       include_source: true
   - mkdocs-material/plugin/math:
