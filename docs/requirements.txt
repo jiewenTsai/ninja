@@ -1,7 +1,14 @@
 mkdocs
 mkdocs-terminal
-mkdocs-jupyter
+#mkdocs-jupyter
 mkdocs-material
 mkdocs-bootswatch
 mknotebooks
 mkdocs-ivory
+
+# requirements.txt 文件內容
+mkdocs>=1.4.0
+mkdocs-jupyter>=0.24.0
+pymdown-extensions>=9.0
+Pygments>=2.12
+nbconvert>=7.0.0
