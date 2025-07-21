@@ -14,32 +14,7 @@ nav:
     - '0505': Untitled-0505.ipynb
 
 theme:
-  name: material
-  language: zh-TW
-  features:
-    - navigation.sections
-    - navigation.top
-    - navigation.instant
-    - content.code.copy
-    - search.highlight
-    - search.suggest
-  palette:
-    # 淺色模式
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: 切換到深色模式
-    # 深色模式
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: 切換到淺色模式
+  name: readthedocs
 
 markdown_extensions:
   - footnotes
@@ -49,11 +24,6 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
   - tables
-  - attr_list
-  - md_in_html
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
 
 # MathJax 數學公式支援
 extra_javascript:
@@ -62,10 +32,7 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
-  - search:
-      lang: 
-        - zh
-        - en
+  - search
   - mkdocs-jupyter:
       execute: false
       include_source: true
