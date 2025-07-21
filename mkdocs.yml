@@ -7,6 +7,7 @@ nav:
     - 3rdpage.md
     - Untitled-1.md
   - ipynb:
+    - 2025W30.ipynb
     - Untitled0.ipynb
     - julia matrix.ipynb
     - ch3.ipynb
