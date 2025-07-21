@@ -32,10 +32,14 @@ extra_javascript:
 
 plugins:
   - search
-  - mkdocs-jupyter:
+  #- mkdocs-jupyter:
+  #    execute: false
+  #    include_source: true
+  #    ignore_h1_titles: true
+  #    # 重要：啟用數學渲染
+  #    allow_errors: false
+  #    show_input: true
+  - mknotebooks:  # 替換 mkdocs-jupyter
       execute: false
-      include_source: true
-      ignore_h1_titles: true
-      # 重要：啟用數學渲染
-      allow_errors: false
-      show_input: true
+      enable_default_jupyter_cell_styling: true
+      enable_default_pandas_dataframe_styling: true
