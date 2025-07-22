@@ -1,41 +1,38 @@
-site_name: Ninja Notes
+site_name: 🥷 NINJA
 
-nav:
-  - About: about.md
-  - Blog:
-    - index.md
-    - 3rdpage.md
-    - Untitled-1.md
-  - ipynb:
-    - 2025W30.ipynb
-    - Untitled0.ipynb
-    - julia matrix.ipynb
-    - ch3.ipynb
-    - '0505': Untitled-0505.ipynb
 
-theme:
+#nav:
+#  - ipynb:
+#    - ch3: ch3.ipynb
+
+theme:     
   name: readthedocs
+  highlight: false
+  #hljs_languages:
+  #  - yaml
+  #  - rust
+  #  - c
+  #  - python
+  #  - r 
+  #  - julia
+  #logo: img/favicon.png
 
+## mathjax for .md
 markdown_extensions:
-  - footnotes
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.arithmatex:
+  - footnotes # 支持脚注
+  - admonition # 支持提示块
+  #- pymdownx.superfences # 支援語法上色
+  - pymdownx.arithmatex: # 支持 latex 語法
       generic: true
-  - tables
 
-# MathJax 數學公式支援
 extra_javascript:
-  - docs/javascripts/config.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/mathjax.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+extra_css:
+  - stylesheets/style.css
 
 plugins:
   - search
-  - mkdocs-jupyter:
-      execute: false
-      include_source: true
-      ignore_h1_titles: true
-      show_input: true
-      include_requirejs: true
+  - mkdocs-jupyter
+  - with-pdf
