@@ -8,3 +8,4 @@ This repo has two parts,
 The long-term supported issues.
 
 - [[Book Notes] Statistical Inference 2/e #23](https://github.com/tsai-jiewen/ninja/issues/23)
+
